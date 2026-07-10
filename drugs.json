@@ -20621,7 +20621,7 @@
       "value": "6-24"
     },
     "formatted_dose": {
-       "Oral": {
+      "Oral": {
         "Common": "30-50mg",
         "Heavy": "80mg+",
         "Light": "15-25mg",
